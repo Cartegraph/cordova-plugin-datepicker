@@ -6,7 +6,7 @@ This plugin is a fork of Vitalii Blagodir's cordova-date-picker plugin, which is
 
 - Original Android version: https://github.com/bikasv/cordova-android-plugins/tree/master/datepicker
 
-New in 0.1.0 (this fork):
+New in 0.9.0 (this fork):
 - Added a clear button and removed the now button
 
 New in 0.8.0 (Android Only):
