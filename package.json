@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-datepicker",
-  "version": "0.9.2",
+  "name": "@cartegraph/cordova-plugin-datepicker",
+  "version": "0.1.0",
   "description": "Cordova DatePicker Plugin",
   "cordova": {
     "id": "cordova-plugin-datepicker",
@@ -10,9 +10,13 @@
       "windows"
     ]
   },
+  "homepage": "https://github.com/Cartegraph/cordova-plugin-datepicker#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VitaliiBlagodir/cordova-plugin-datepicker.git"
+    "url": "git+https://github.com/Cartegraph/cordova-plugin-datepicker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cartegraph/cordova-plugin-datepicker/issues"
   },
   "keywords": [
     "cordova",
@@ -22,6 +26,8 @@
     "cordova-android",
     "cordova-windows"
   ],
-  "author": "Vitalii Blagodir <vitalii.blagodir@gmail.com>",
-  "license": "Apache 2.0"
+  "author": {
+    "name": "Eben Krapfl"
+  },
+  "license": "MIT"
 }
