@@ -28,19 +28,19 @@ New in 0.8.0 (Android Only):
 - Local development workflow using [Cordova CLI](http://cordova.apache.org/docs/en/edge/)
 
 ```bash
-cordova plugin add @cartegraph/cordova-plugin-datepicker
+cordova plugin add cordova-plugin-cartegraph-datepicker
 ```
 
 - Local development workflow using [PhoneGap CLI](http://phonegap.com/install/)
 
 ```bash
-phonegap local plugin add @cartegraph/cordova-plugin-datepicker
+phonegap local plugin add cordova-plugin-cartegraph-datepicker
 ```
 
 - Cloud-based development workflow using [PhoneGap Build](http://build.phonegap.com)
 
 ```bash
-<gap:plugin name="@cartegraph/cordova-plugin-datepicker" source="npm" />
+<gap:plugin name="cordova-plugin-cartegraph-datepicker" source="npm" />
 ```
 
 
